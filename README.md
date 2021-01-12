@@ -1,12 +1,11 @@
 <html>
   <head>
-  <title>
+  <title>ethan</title>
       <style>
-      
-      
-      </style>
-      
-    </title>
+        p{
+          color:blue;
+        }
+        </style>
   
   </head>
   <body>
