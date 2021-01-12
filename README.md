@@ -1,11 +1,5 @@
 <html>
   <head>
-  <title>ethan</title>
-      <style>
-        p{
-          color:blue;
-        }
-        </style>
   
   </head>
   <body>
